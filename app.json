@@ -1,0 +1,40 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/zhongzhiguanli/zhongzhiguanli",
+    "pages/nonghudangan/nonghudangan",
+    "pages/zhongyuanxinxi/zhongyuanxinxi",
+    "pages/yaocaiku/yaocaiku",
+    "pages/yaocaiku2/yaocaiku2",
+    "pages/insertNonghu/insertNonghu",
+    "pages/tianjianguanli2/tianjianguanli2",
+    "pages/tianjianguanli/tianjianguanli",
+    "pages/wode/wode",
+    "pages/chaxunguanli/chaxunguanli"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#6A9D1A",
+    "navigationBarTitleText": "中药溯源",
+    "navigationBarTextStyle": "white"
+  },
+  "style": "v2",
+  "tabBar": {
+    "borderStyle": "white",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/yaocaiku/yaocaiku",
+        "text": "药材库"
+      },
+      {
+        "pagePath": "pages/wode/wode",
+        "text": "我的"
+      }
+    ]
+  },
+  "sitemapLocation": "sitemap.json"
+}
